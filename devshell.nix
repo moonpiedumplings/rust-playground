@@ -54,6 +54,7 @@
         rustfmt
         clippy
         rust-analyzer
+        trunk
         toolchain # rust toolchain from fenix
 
         # Build libraries
